@@ -1,4 +1,3 @@
 ---
-permalink: /README.html
-redirect_to: 'http://sfmetadb.pythonanywhere.com'
+permalink: /index.html
 ---
